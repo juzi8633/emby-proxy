@@ -1,0 +1,13 @@
+{
+  "name": "render-emby-proxy",
+  "version": "1.0.0",
+  "description": "Emby proxy service for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.19.2"
+  }
+}
